@@ -1,0 +1,29 @@
+c:\users\lab\documents\visual studio 2015\Projects\PrjOrdenar\PrjOrdenar\bin\Debug\PrjOrdenar.exe.config
+C:\Users\Lab\Documents\Visual Studio 2015\Projects\PrjOrdenar\PrjOrdenar\bin\Debug\PrjOrdenar.exe
+C:\Users\Lab\Documents\Visual Studio 2015\Projects\PrjOrdenar\PrjOrdenar\bin\Debug\PrjOrdenar.pdb
+C:\Users\Lab\Documents\Visual Studio 2015\Projects\PrjOrdenar\PrjOrdenar\obj\Debug\PrjOrdenar.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Documents\Visual Studio 2015\Projects\PrjOrdenar\PrjOrdenar\obj\Debug\PrjOrdenar.Properties.Resources.resources
+C:\Users\Lab\Documents\Visual Studio 2015\Projects\PrjOrdenar\PrjOrdenar\obj\Debug\PrjOrdenar.csproj.GenerateResource.Cache
+C:\Users\Lab\Documents\Visual Studio 2015\Projects\PrjOrdenar\PrjOrdenar\obj\Debug\PrjOrdenar.exe
+C:\Users\Lab\Documents\Visual Studio 2015\Projects\PrjOrdenar\PrjOrdenar\obj\Debug\PrjOrdenar.pdb
+C:\Users\Lab\Documents\Visual Studio 2015\Projects\PrjOrdenar\PrjOrdenar\obj\Debug\PrjOrdenar.Form1.resources
+C:\Users\leona\Documents\Visual Studio 2017\Projects\PrjOrdenar\PrjOrdenar\bin\Debug\PrjOrdenar.exe.config
+C:\Users\leona\Documents\Visual Studio 2017\Projects\PrjOrdenar\PrjOrdenar\bin\Debug\PrjOrdenar.exe
+C:\Users\leona\Documents\Visual Studio 2017\Projects\PrjOrdenar\PrjOrdenar\bin\Debug\PrjOrdenar.pdb
+C:\Users\leona\Documents\Visual Studio 2017\Projects\PrjOrdenar\PrjOrdenar\obj\Debug\PrjOrdenar.csprojAssemblyReference.cache
+C:\Users\leona\Documents\Visual Studio 2017\Projects\PrjOrdenar\PrjOrdenar\obj\Debug\PrjOrdenar.Form1.resources
+C:\Users\leona\Documents\Visual Studio 2017\Projects\PrjOrdenar\PrjOrdenar\obj\Debug\PrjOrdenar.Properties.Resources.resources
+C:\Users\leona\Documents\Visual Studio 2017\Projects\PrjOrdenar\PrjOrdenar\obj\Debug\PrjOrdenar.csproj.GenerateResource.cache
+C:\Users\leona\Documents\Visual Studio 2017\Projects\PrjOrdenar\PrjOrdenar\obj\Debug\PrjOrdenar.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documents\Visual Studio 2017\Projects\PrjOrdenar\PrjOrdenar\obj\Debug\PrjOrdenar.exe
+C:\Users\leona\Documents\Visual Studio 2017\Projects\PrjOrdenar\PrjOrdenar\obj\Debug\PrjOrdenar.pdb
+C:\Projects\PrjOrdenar\PrjOrdenar\bin\Debug\PrjOrdenar.exe.config
+C:\Projects\PrjOrdenar\PrjOrdenar\bin\Debug\PrjOrdenar.exe
+C:\Projects\PrjOrdenar\PrjOrdenar\bin\Debug\PrjOrdenar.pdb
+C:\Projects\PrjOrdenar\PrjOrdenar\obj\Debug\PrjOrdenar.csproj.AssemblyReference.cache
+C:\Projects\PrjOrdenar\PrjOrdenar\obj\Debug\PrjOrdenar.Form1.resources
+C:\Projects\PrjOrdenar\PrjOrdenar\obj\Debug\PrjOrdenar.Properties.Resources.resources
+C:\Projects\PrjOrdenar\PrjOrdenar\obj\Debug\PrjOrdenar.csproj.GenerateResource.cache
+C:\Projects\PrjOrdenar\PrjOrdenar\obj\Debug\PrjOrdenar.csproj.CoreCompileInputs.cache
+C:\Projects\PrjOrdenar\PrjOrdenar\obj\Debug\PrjOrdenar.exe
+C:\Projects\PrjOrdenar\PrjOrdenar\obj\Debug\PrjOrdenar.pdb
